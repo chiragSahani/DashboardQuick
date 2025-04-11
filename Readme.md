@@ -1,3 +1,4 @@
+
 # DashboardQuick
 
 A pixel-perfect desktop dashboard UI built with **React**, **Next.js**, and **Tailwind CSS**, inspired by BlinkIt’s internal category management and scraping tools.
@@ -42,6 +43,10 @@ npm install --legacy-peer-deps
 npm run dev
 ```
 
+## 🔗 Deployed Link
+
+You can access the deployed application [here](https://quickcomdashboard.vercel.app/).
+
 ## 🔧 Troubleshooting
 
 > 💡 **Note:** If you face a date-fns conflict with `react-day-picker`, install compatible versions:
@@ -72,6 +77,5 @@ If you find this project helpful, please consider starring the repository to sho
 ## 📄 License
 
 This project is licensed under the MIT License.
-
 
 Made with ❤️ by [Chirag Sahani](https://github.com/chiragSahani)
