@@ -5,9 +5,9 @@ import random
 from tqdm import tqdm
 import json
 
-# Define your input data directly in the script
+
 def create_input_dataframes():
-    # Location data
+    
     locations_data = {
         "latitude": [
             28.678051, 28.5045, 22.59643333, 23.1090018, 18.95833333,
